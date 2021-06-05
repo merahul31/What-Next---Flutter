@@ -13,5 +13,6 @@ A few resources to get you started if this is your first Flutter project:
 
 ## Introduction
 
-
-<img src="/readme_images/1.jpg" width="250">  <img src="/readme_images/2.jpg" width="250">  <img src="/readme_images/3.jpg" width="250">
+<p align="center">
+  <img src="/readme_images/1.jpg" width="250">  <img src="/readme_images/2.jpg" width="250">  <img src="/readme_images/3.jpg" width="250">
+</p>
